@@ -22,7 +22,7 @@ Works offline. No tracking, no network requests.
 
 ### Option 1: Download the ZIP (easiest)
 
-1. Download [`release/sif-unicode-styler-v1.2.5.zip`](release/sif-unicode-styler-v1.2.5.zip), or use **Code → Download ZIP** for the whole repo.
+1. Download `sif-unicode-styler-v1.2.5.zip` from the [Releases page](https://github.com/sifatrhmn/sif-unicode-styler/releases/latest) (also in [`release/`](release/)), or use **Code → Download ZIP** for the whole repo.
 2. Extract it to a folder you will keep (don't delete it later, or the extension stops working).
 
 ### Option 2: Clone
@@ -92,4 +92,8 @@ release/
 
 ## Author
 
-Made by **SiF** (Dr. Imrul Sifat).
+Made by Dr Sifat.
+
+## License
+
+[MIT](LICENSE)
