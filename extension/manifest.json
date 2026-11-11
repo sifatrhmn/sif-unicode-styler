@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "SiF Unicode Styler",
+  "version": "1.2.5",
+  "description": "Premium Unicode Text Generator featuring custom spaces, diacritic stacks, frames, search, copy history and bookmarks.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "storage",
+    "clipboardWrite"
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "sif-unicode-styler@sif.org",
+      "strict_min_version": "109.0"
+    }
+  }
+}
